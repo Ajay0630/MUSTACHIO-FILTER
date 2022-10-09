@@ -1,0 +1,25 @@
+body {
+    background-color:lightgray;
+}
+
+.btn-aj {
+    color: white !important;
+}
+
+.btn-aj:hover {
+    color: black !important;
+}
+
+a {
+    font-size: 60px !important;
+    text-decoration: none;
+    color: white;
+}
+
+a:hover {
+    color: white;
+}
+
+p {
+    font-size: 25px !important;
+}
